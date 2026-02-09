@@ -1,9 +1,3 @@
-Perfecto, te voy a dejar un **README.md profesional, claro y muy visual**, alineado con **lo que realmente hace tu proyecto**, cómo se ejecuta y **aprovechando las imágenes de `/images`** para que en GitHub luzca como un proyecto serio de research macro/quant.
-
-👉 **Copia y pega TODO lo siguiente como `README.md` en la raíz del repo**.
-
----
-
 ````markdown
 # 🌍 Global Liquidity Monitor  
 ### Net Liquidity USA · Global Central Banks · Liquidity Regimes (GMM / HMM)
@@ -257,14 +251,3 @@ GitHub: [https://github.com/AxierSangroniz](https://github.com/AxierSangroniz)
 
 ⭐ Si este proyecto te resulta útil, **dale una estrella al repo**.
 
-```
-
----
-
-Si quieres, en el siguiente paso puedo:
-- optimizar el README para **LinkedIn**
-- crear un **diagrama del pipeline**
-- o preparar una versión **en inglés para recruiters**
-
-Este repo ya está a nivel **portfolio serio** 👌
-```
