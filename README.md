@@ -1,3 +1,4 @@
+![Estructura del proyecto](images/estructura_proyecto.png)
 ````markdown
 # 🌍 Global Liquidity Monitor  
 ### Net Liquidity USA · Global Central Banks · Liquidity Regimes (GMM / HMM)
@@ -25,7 +26,6 @@ Este proyecto permite **medirla, visualizarla y modelar sus regímenes** de form
 
 ## 🗂️ Estructura del proyecto
 
-![Estructura del proyecto](images/estructura_proyecto.png)
 
 ```text
 configs/    → configuración de series macro (FRED / SDMX)
