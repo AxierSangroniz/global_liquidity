@@ -1,0 +1,28 @@
+fred:
+  series:
+    # --- USA Core (Net Liquidity) ---
+    WALCL:
+      name: "fed_balance_total_assets"
+      freq: "weekly"
+    RRPONTSYD:
+      name: "reverse_repo_overnight"
+      freq: "daily"
+    WTREGEN:
+      name: "treasury_general_account_week_avg"
+      freq: "weekly"
+
+    # --- Global CB assets ---
+    ECBASSETSW:
+      name: "ecb_assets_weekly"
+      freq: "weekly"
+    JPNASSETS:
+      name: "boj_total_assets"
+      freq: "monthly"
+
+    # --- FX para convertir a USD ---
+    DEXJPUS:
+      name: "jpy_per_usd"
+      freq: "daily"
+    DEXUSEU:
+      name: "usd_per_eur"
+      freq: "daily"

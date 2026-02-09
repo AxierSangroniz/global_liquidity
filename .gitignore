@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data & outputs
+data/
+manifests/
+*.parquet
+*.csv
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
